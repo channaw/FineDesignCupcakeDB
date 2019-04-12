@@ -59,5 +59,11 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="Orders.sql" />
+    <Build Include="Customer.sql" />
+    <Build Include="Flavors.sql" />
+    <Build Include="ProductDetail.sql" />
+    <Build Include="Products.sql" />
+    <Build Include="Toppings.sql" />
+    <Build Include="ProductIngredients.sql" />
   </ItemGroup>
 </Project>
