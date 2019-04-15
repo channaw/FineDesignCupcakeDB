@@ -1,4 +1,4 @@
-﻿CREATE TABLE [dbo].[Frosting]
+﻿CREATE TABLE [dbo].[Frostings]
 (
 	[FrostingId] INT NOT NULL PRIMARY KEY,
 	[FrostingName] nvarchar(50), 
