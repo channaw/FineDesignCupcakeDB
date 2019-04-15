@@ -65,6 +65,7 @@
     <Build Include="Products.sql" />
     <Build Include="Toppings.sql" />
     <Build Include="ProductIngredients.sql" />
+    <Build Include="Frostings.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="FineDesignCupcakeDB.refactorlog" />

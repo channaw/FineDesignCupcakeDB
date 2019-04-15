@@ -1,10 +1,9 @@
-﻿CREATE TABLE [dbo].[Toppings]
+﻿CREATE TABLE [dbo].[Frosting]
 (
-	[ToppingId] INT NOT NULL PRIMARY KEY,
-	[ToppingName] nvarchar(50), 
+	[FrostingId] INT NOT NULL PRIMARY KEY,
+	[FrostingName] nvarchar(50), 
     [CreatedDate] DATETIME NULL, 
     [ModifiedDate] DATETIME NULL, 
     [Image] NVARCHAR(255) NULL, 
     [Thumbnail] NVARCHAR(255) NULL
-	
 )
